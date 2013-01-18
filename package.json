@@ -3,8 +3,8 @@
     "description": "inspired by codeigniter",
     "keywords": ["nodeigniter", "igniter", "framework"],
     "version": "0.1.0",
-    "homepage" : "https://github.com/makarukudo/nodeigniter",
-    "author": "Michael Brucal <bruczki21@live.com>",
+    "homepage" : "https://github.com/imdevin567/nodeigniter",
+    "author": "Devin Young <devin@devinyoungweb.com>",
     "main": "./lib/nodeigniter.js",
     "bin": { 
     	"nodeigniter" : "./bin/ni.js" 
