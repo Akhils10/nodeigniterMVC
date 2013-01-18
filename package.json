@@ -1,0 +1,17 @@
+{
+    "name": "nodeigniter",
+    "description": "inspired by codeigniter",
+    "keywords": ["nodeigniter", "igniter", "framework"],
+    "version": "0.1.0",
+    "homepage" : "https://github.com/makarukudo/nodeigniter",
+    "author": "Michael Brucal <bruczki21@live.com>",
+    "main": "./lib/nodeigniter.js",
+    "bin": { 
+    	"ni" : "./bin/ni.js" 
+    },
+    "dependencies": {
+    	"commander": "1.x.x",
+    	"connect": "1.x.x",
+    	"mkdirp": "0.3.x"
+  	}
+}
