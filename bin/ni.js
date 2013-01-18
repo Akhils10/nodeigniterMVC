@@ -10,3 +10,5 @@ program.command('create')
 .action(function() {
 	nodeigniter.create(program.args.shift() || '.');
 });
+
+program.parse(process.argv);

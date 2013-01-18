@@ -7,7 +7,7 @@
     "author": "Michael Brucal <bruczki21@live.com>",
     "main": "./lib/nodeigniter.js",
     "bin": { 
-    	"ni" : "./bin/ni.js" 
+    	"nodeigniter" : "./bin/ni.js" 
     },
     "dependencies": {
     	"commander": "1.x.x",
